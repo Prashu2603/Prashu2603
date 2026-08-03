@@ -79,8 +79,8 @@ I'm an Information Technology undergraduate who enjoys turning ideas and data in
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prashu2603&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="Prasanth's GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashu2603&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Prasanth's most-used languages">
+![GitHub Followers](https://img.shields.io/github/followers/Prashu2603?style=for-the-badge&logo=github&label=Followers&color=7C3AED)
+![GitHub Stars](https://img.shields.io/github/stars/Prashu2603?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=2563EB)
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Prashu2603&theme=tokyonight&hide_border=true&border_radius=12" alt="Prasanth's GitHub streak">
 
