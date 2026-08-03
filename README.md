@@ -1,11 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=Prasanth%20Veluri&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Building%20intelligent%20and%20secure%20solutions&descAlignY=60&animation=fadeIn)
+![Prasanth Veluri — Cybersecurity, AI/ML and Python](assets/cyber-header.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Intern;Information+Technology+Undergraduate;Python+Developer+%7C+Cybersecurity+Learner;Always+learning.+Always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=SOC+Analyst+Aspirant;Cybersecurity+Enthusiast;Splunk+%26+SIEM+Learner;AI+%26+Machine+Learning+Student;Threat+Detection+Explorer)](https://git.io/typing-svg)
 
-<a href="https://veluri-prasanth.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/prasanth-veluri"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://veluri-prasanth.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/prasanth-veluri"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:prasanthveluri03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/Prashu2603"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
@@ -79,12 +79,12 @@ I'm an Information Technology undergraduate who enjoys turning ideas and data in
 
 <div align="center">
 
-![GitHub Followers](https://img.shields.io/github/followers/Prashu2603?style=for-the-badge&logo=github&label=Followers&color=7C3AED)
-![GitHub Stars](https://img.shields.io/github/stars/Prashu2603?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=2563EB)
+![GitHub Followers](https://img.shields.io/github/followers/Prashu2603?style=for-the-badge&logo=github&label=Followers&color=0891B2)
+![GitHub Stars](https://img.shields.io/github/stars/Prashu2603?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=3B82F6)
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Prashu2603&theme=tokyonight&hide_border=true&border_radius=12" alt="Prasanth's GitHub streak">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashu2603&bg_color=1A1B27&color=70A5FD&line=7C3AED&point=FFFFFF&area=true&hide_border=true&radius=12)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashu2603&bg_color=020617&color=67E8F9&line=22D3EE&point=FFFFFF&area=true&hide_border=true&radius=12)
 
 </div>
 
@@ -96,8 +96,8 @@ I'm open to collaborations, internships, and conversations around **AI, machine 
 
 **[Portfolio](https://veluri-prasanth.vercel.app) · [LinkedIn](https://www.linkedin.com/in/prasanth-veluri) · [Email](mailto:prasanthveluri03@gmail.com)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prashu2603&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Prashu2603&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0891B2,75:3B82F6,100:8B5CF6&height=120&section=footer)
 
 </div>
