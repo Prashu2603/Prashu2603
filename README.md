@@ -13,18 +13,16 @@
 
 ## 👨‍💻 About Me
 
-```python
-prasanth = {
-    "location": "Nellore, Andhra Pradesh, India",
-    "education": "B.Tech — Information Technology (2023–2027)",
-    "current_role": "AI & Machine Learning Intern @ AENEXZ Tech",
-    "leadership": "Finance Team Lead @ IEEE SB NBKRIST",
-    "interests": ["AI/ML", "Python", "Cybersecurity", "Data Analytics"],
-    "motto": "Learn. Build. Improve. Repeat."
-}
-```
+I'm an Information Technology undergraduate who enjoys turning ideas and data into practical solutions. My experience spans **AI/ML workflows, Python development, web application security, network threat analysis, and team leadership**.
 
-I turn ideas and data into practical solutions using Python, machine learning, and modern development tools. My experience spans AI/ML workflows, web application security, network threat analysis, and technical-team leadership.
+- 🎓 Pursuing a **B.Tech in Information Technology** at N.B.K.R. Institute of Science & Technology (2023–2027)
+- 🤖 Working as an **AI & Machine Learning Intern** at AENEXZ Tech Pvt. Ltd.
+- 👥 Leading financial planning as **Finance Team Lead** at IEEE SB NBKRIST
+- 🛡️ Experienced in vulnerability assessment and supervised penetration testing
+- 📍 Based in **Nellore, Andhra Pradesh, India**
+- 🎯 Exploring opportunities in **AI/ML engineering, Python development, cybersecurity, and data analytics**
+
+> **My approach:** Learn. Build. Improve. Repeat.
 
 ## 🚀 Experience
 
