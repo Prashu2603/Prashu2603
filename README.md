@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0E7490,65:2563EB,100:7C3AED&height=260&section=header&text=PRASANTH%20VELURI&fontSize=55&fontColor=FFFFFF&fontAlignY=36&desc=CYBERSECURITY%20%C3%97%20AI%20%E2%80%94%20DETECT.%20DEFEND.%20BUILD.&descSize=17&descAlignY=57&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=Prasanth%20Veluri&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Building%20intelligent%20and%20secure%20solutions&descAlignY=60&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Prasanth+Veluri;SOC+Analyst+Aspirant+%7C+Threat+Detection+Explorer;AI+%26+Machine+Learning+Intern;Python+Developer+%7C+Cybersecurity+Enthusiast;Turning+curiosity+into+secure%2C+intelligent+solutions.)](https://git.io/typing-svg)
 
