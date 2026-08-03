@@ -11,7 +11,7 @@
 
 <br><br>
 
-<samp>⚡ Building at the intersection of security, intelligence, and impact.</samp>
+![Building at the intersection of security, intelligence, and impact](https://capsule-render.vercel.app/api?type=transparent&height=82&text=%E2%9A%A1%20Building%20at%20the%20intersection%20of%20security%2C%20intelligence%2C%20and%20impact.&fontSize=23&fontColor=22D3EE&fontAlignY=50&animation=fadeIn)
 
 </div>
 
