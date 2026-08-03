@@ -32,7 +32,7 @@ I'm an Information Technology undergraduate who enjoys turning ideas and data in
 <td><b>🤖 AI & Machine Learning Intern</b><br>AENEXZ Tech Pvt. Ltd. · Remote, Bengaluru<br><sub>Building and evaluating AI-driven solutions through Python-based ML workflows and hands-on projects.</sub></td>
 </tr>
 <tr>
-<td><b>Jun 2025 – Present</b></td>
+<td><b>Dec 2025 – Present</b></td>
 <td><b>👥 Finance Team Lead</b><br>IEEE SB NBKRIST · Nellore<br><sub>Leading budgeting, financial planning, expense tracking, and coordination for technical and cultural events.</sub></td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ I'm an Information Technology undergraduate who enjoys turning ideas and data in
 | Certification | Issuer | Year |
 |---|---|:---:|
 | Introduction to Cybersecurity | Cisco Networking Academy | 2026 |
-| Privacy and Security on Online Social Media | NPTEL | — |
+| Privacy and Security on Online Social Media | NPTEL | 2025 |
 | Cyber Web Application Project Internship | Supraja Technologies | 2025 |
 | Cloud Security and Monitoring Tasks | Microsoft Applied Skills | 2026 |
 
