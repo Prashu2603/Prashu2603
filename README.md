@@ -70,7 +70,7 @@ I'm an Information Technology undergraduate who enjoys turning ideas and data in
 
 | Certification | Issuer | Year |
 |---|---|:---:|
-| Introduction to Cybersecurity | Cisco Networking Academy | 2026 |
+| Introduction to Cybersecurity | Cisco Networking Academy | 11 Jul 2026 |
 | Privacy and Security on Online Social Media | NPTEL | 2025 |
 | Cyber Web Application Project Internship | Supraja Technologies | 2025 |
 | Cloud Security and Monitoring Tasks | Microsoft Applied Skills | 2026 |
