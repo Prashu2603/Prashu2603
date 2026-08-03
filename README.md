@@ -11,7 +11,69 @@
 
 </div>
 
-![Prasanth Veluri profile overview](assets/cyber-profile.svg)
+## 👨‍💻 About Me
+
+I'm an Information Technology undergraduate who enjoys turning ideas and data into practical solutions. My experience spans **AI/ML workflows, Python development, web application security, network threat analysis, and team leadership**.
+
+- 🎓 Pursuing a **B.Tech in Information Technology** at N.B.K.R. Institute of Science & Technology (2023–2027)
+- 🤖 Working as an **AI & Machine Learning Intern** at AENEXZ Tech Pvt. Ltd.
+- 👥 Leading financial planning as **Finance Team Lead** at IEEE SB NBKRIST
+- 🛡️ Experienced in vulnerability assessment and supervised penetration testing
+- 📍 Based in **Nellore, Andhra Pradesh, India**
+- 🎯 Exploring opportunities in **AI/ML engineering, Python development, cybersecurity, and data analytics**
+
+> **My approach:** Learn. Build. Improve. Repeat.
+
+## 🚀 Experience
+
+<table>
+<tr>
+<td width="24%"><b>Jun 2026 – Present</b></td>
+<td><b>🤖 AI & Machine Learning Intern</b><br>AENEXZ Tech Pvt. Ltd. · Remote, Bengaluru<br><sub>Building and evaluating AI-driven solutions through Python-based ML workflows and hands-on projects.</sub></td>
+</tr>
+<tr>
+<td><b>Dec 2025 – Present</b></td>
+<td><b>👥 Finance Team Lead</b><br>IEEE SB NBKRIST · Nellore<br><sub>Leading budgeting, financial planning, expense tracking, and coordination for technical and cultural events.</sub></td>
+</tr>
+<tr>
+<td><b>Jan 2025 – Sep 2025</b></td>
+<td><b>🛡️ Cybersecurity Intern</b><br>Cyber Security Network / Supraja Technologies<br><sub>Performed web vulnerability assessments, supervised penetration testing, threat analysis, and security risk mitigation.</sub></td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Web
+
+[![Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,django&theme=dark)](https://skillicons.dev)
+
+### AI, Data & Database
+
+[![Skills](https://skillicons.dev/icons?i=sklearn,mysql&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Tools
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+&nbsp;
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+## 🏅 Certifications
+
+| Certification | Issuer | Year |
+|---|---|:---:|
+| Introduction to Cybersecurity | Cisco Networking Academy | 11 Jul 2026 |
+| Privacy and Security on Online Social Media | NPTEL | 2025 |
+| Cyber Web Application Project Internship | Supraja Technologies | 2025 |
+| Cloud Security and Monitoring Tasks | Microsoft Applied Skills | 2026 |
 
 ## 📊 GitHub Analytics
 
