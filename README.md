@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=Prasanth%20Veluri&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Building%20intelligent%20and%20secure%20solutions&descAlignY=60&animation=fadeIn)
+<h1>Hi, I'm Prasanth Veluri 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Prasanth+Veluri;SOC+Analyst+Aspirant+%7C+Threat+Detection+Explorer;AI+%26+Machine+Learning+Intern;Python+Developer+%7C+Cybersecurity+Enthusiast;Turning+curiosity+into+secure%2C+intelligent+solutions.)](https://git.io/typing-svg)
+<h3>AI & Machine Learning Intern · Cybersecurity Enthusiast · Python Developer</h3>
 
 <a href="https://veluri-prasanth.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/prasanth-veluri"><img src="https://img.shields.io/badge/LET'S_CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
