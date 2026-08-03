@@ -1,17 +1,13 @@
 <div align="center">
 
-![Prasanth Veluri](https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:2563EB,100:06B6D4&height=135&section=header&text=Prasanth%20Veluri&fontSize=42&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=220&section=header&text=Prasanth%20Veluri&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Building%20intelligent%20and%20secure%20solutions&descAlignY=60&animation=fadeIn)
 
-<h3>AI & Machine Learning Intern · Cybersecurity Enthusiast · Python Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Intern;Information+Technology+Undergraduate;Python+Developer+%7C+Cybersecurity+Learner;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
-<a href="https://veluri-prasanth.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/prasanth-veluri"><img src="https://img.shields.io/badge/LET'S_CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://veluri-prasanth.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/prasanth-veluri"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:prasanthveluri03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/Prashu2603"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-<br><br>
-
-<samp>⚡ Building at the intersection of security, intelligence, and impact.</samp>
 
 </div>
 
