@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Prasanth Veluri 👋</h1>
+![Prasanth Veluri](https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:2563EB,100:06B6D4&height=135&section=header&text=Prasanth%20Veluri&fontSize=42&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn)
 
 <h3>AI & Machine Learning Intern · Cybersecurity Enthusiast · Python Developer</h3>
 
